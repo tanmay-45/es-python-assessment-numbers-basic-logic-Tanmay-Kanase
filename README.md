@@ -2,6 +2,9 @@
 
 This repository contains my solution for the Python Programming Assessment.
 
+**Name:** Tanmay Kanase  
+**Submission Date:** 17 August 2026
+
 ## Functions
 
 ### 1. even_or_odd
